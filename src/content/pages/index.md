@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: Lindy LaDow
-tagline: Graphic Designer
+tagline: Business Coach
 featuredImage: /assets/img-lindy-ladow-mountains.jpeg
 cta:
-  ctaText: About me
+  ctaText: More about me
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I am a business and life coach.
