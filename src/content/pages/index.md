@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Lindy LaDow
 tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/img-lindy-ladow-mountains.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
