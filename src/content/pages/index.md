@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Lindy LaDow
 tagline: Business Coach
-featuredImage: /assets/img-lindy-ladow-mountains.jpeg
+featuredImage: /assets/mom2-copy.jpg
 cta:
   ctaText: More about me
   ctaLink: /about
