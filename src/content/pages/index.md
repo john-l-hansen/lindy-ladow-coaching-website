@@ -8,4 +8,4 @@ cta:
   ctaText: More about me
   ctaLink: /about
 ---
-I am a business and life coach.
+As a Business and Transformational Coach I work with perception and "ah-ha's" to support people in becoming their own advocate and coach.
