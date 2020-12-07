@@ -1,14 +1,22 @@
 ---
 template: blog-post
-title: Desk for minimalists
+title: Business Development
 slug: /minimalists-desk
 date: 2020-05-13 12:46
 description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+Creating and/or developing a business has a lot of moving parts. The spine of the company is the Chart of Accounts. From there there are endless possiblities. 
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
+Like building a house the foundation must be sound. No matter how much many resources are thrown at a business that is failing on any level. If the foundation is cracked or disintergrating the business fails.
+
+In any business there needs to be organization. First there is a concept and then research and development of the product which can be a product or a service or both.  Sales where the transactions are defined and accounting is the backbone or accountability in the world.
+
+Leaders at times are at a loss of how to stop the bleeding in their organizations or taking it to the next level. Leaders have the job of balancing vision with operation. 
+
+Pausing to get clear is a luxury many leaders think they do not have time for. In reality taking time to reflect, ponder and using association can save time and resources plus the journey becomes more joyful. They learn to trust themselves leading to a sense of adventure and incites curiosity for the next leg of their travels. People who learn to find this sacred space within themselves find themselves more calm and the answers and insights come easier and easier.
+
+Take time to reflect, ponder and use association just 5 minutes a day and work yourself up to 20 minutes a day. I find first thing in the morning works for me and I have come to trust the agenda that presents itself to me. There are many ways to do this like journaling, sitting still and in silence and walking to name a few. 
 
 ![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
 
