@@ -31,9 +31,9 @@ There are several breathwork practices and exercises out there. I encourage you 
 > *Notice inner voice.*
 >
 > *Visualize intentions.* 
->
-> #### *Some Breath Exercises to Look Up:*
->
+
+#### *Some Breath Exercises to Look Up:*
+
 > *[Box](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900)*
 >
 > *Diaphragmatic*
