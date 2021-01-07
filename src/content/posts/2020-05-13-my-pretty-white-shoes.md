@@ -4,7 +4,7 @@ title: Personal Development
 slug: /personal-development
 date: 2020-12-09 08:52
 description: Know Thyself
-featuredImage: /assets/streamrunning.jpg
+featuredImage: /assets/img-streamrunning.jpg
 ---
 Know thyself is an ancient Greek aphorism. 
 
