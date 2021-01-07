@@ -4,7 +4,7 @@ title: "Markdown: Syntax"
 slug: /markdown
 date: 2020-03-14 22:53
 description: Dreams Realized
-featuredImage: /assets/sunrise-message.jpg
+featuredImage: /assets/img.sunrisemessage.jpg
 ---
 
 ## Overview
