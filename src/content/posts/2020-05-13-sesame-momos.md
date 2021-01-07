@@ -21,7 +21,7 @@ This is a tool I use when I have a few minutes alone before a presentation, an e
 
 ### Reset Mental State
 
-Next time you find yourself doing too many things at once, or you sense panic or anxiety begin to rise, move through a few rounds of alternate nostril breathing. It’s a way to hit the reset button for your mental state.
+Next time you find yourself doing too many things at once, or you sense panic or anxiety begin to rise, move through a few rounds of alternate nostril breathing. Hit the reset button for your mental state.
 
 1. Take a comfortable and tall seat, making sure your spine is straight and your heart is open.
 2. Relax your left palm comfortably into your lap and bring your right hand just in front of your face.
