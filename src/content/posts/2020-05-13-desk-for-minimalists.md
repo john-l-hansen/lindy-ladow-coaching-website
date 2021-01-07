@@ -4,7 +4,7 @@ title: Business Development
 slug: /minimalists-desk
 date: 2020-05-13 12:46
 description: sdasd
-featuredImage: /assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg
+featuredImage: /assets/sunrisevillage.jpeg
 ---
 Creating and/or developing a business has a lot of moving parts. The spine of the company is the Chart of Accounts. From there there are endless possiblities. 
 
