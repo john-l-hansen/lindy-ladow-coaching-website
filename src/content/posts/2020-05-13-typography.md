@@ -4,7 +4,7 @@ title: Breath Workout
 slug: /breathwork
 date: 2021-01-01 00:00
 description: "breathwork "
-featuredImage: /assets/20180902_cloudwave2.jpg
+featuredImage: ""
 ---
 Breath Workouts
 
