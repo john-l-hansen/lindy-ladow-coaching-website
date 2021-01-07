@@ -6,6 +6,8 @@ date: 2020-08-19 12:47
 description: Breathing Focus
 featuredImage: /assets/20180902_waveclouds1.jpg
 ---
+## Intro
+
 This is a tool I use when I have a few minutes alone before a presentation, an event or a stressful situation. In addition to calming the mind and reversing stress, alternate nostril breathing also:
 
 * Improves our ability to focus the mind
