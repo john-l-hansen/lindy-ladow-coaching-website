@@ -1,9 +1,10 @@
 ---
 template: blog-post
-slug: /markdown
-date: 2020-05-09T05:53:16.102Z
 title: "Markdown: Syntax"
-featuredImage: /assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg
+slug: /markdown
+date: 2020-03-14 22:53
+description: Dreams Realized
+featuredImage: /assets/sunrise-message.jpg
 ---
 
 ## Overview
