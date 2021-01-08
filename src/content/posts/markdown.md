@@ -1,9 +1,11 @@
 ---
 template: blog-post
-title: "Markdown: Syntax"
-slug: /markdown
+title: Tools
+slug: /tools
 date: 2020-03-14 22:53
-description: Dreams Realized
+description: "These personal tools exercise mental, emotional, physical and
+  spiritual muscles. The benefits are immense and range in degree and diversity
+  dependent on personal investment. "
 featuredImage: /assets/img.sunrisemessage.jpg
 ---
 ## Overview
@@ -277,7 +279,7 @@ ampersands and angle brackets. For example, this:
 </div>
 ```
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg)
+![Royal Mail](/assets/royal-mail-unsplash.jpg "TOOLS")
 
 Regular Markdown syntax is not processed within code blocks. E.g.,
 asterisks are just literal asterisks within a code block. This means
