@@ -10,4 +10,4 @@ Know thyself is an ancient Greek aphorism.
 
 <https://www.16personalities.com/free-personality-test>
 
-This tool is based on the Meyers-Briggs Personality Model that has helped organizations and individuals better understand themselves and people they collaborate with.
+This tool is based on the Meyers-Briggs Personality Model that has helped organizations and individuals better understand themselves and the people they collaborate with.
