@@ -8,15 +8,15 @@ featuredImage: /assets/img-suntipping.jpg
 ---
 Creating and/or developing a business has a lot of moving parts. The spine of the company is the Chart of Accounts. From there there are endless possiblities. 
 
-Like building a house the foundation must be sound. No matter how much many resources are thrown at a business that is failing on any level. If the foundation is cracked or disintergrating the business fails.
+Like building a house the foundation must be sound. No matter how many resources are thrown at a business that is failing on any level. If the foundation is cracked or disintergrating the business fails.
 
 In any business there needs to be organization. First there is a concept and then research and development of the product which can be a product or a service or both.  Sales where the transactions are defined and accounting is the backbone or accountability in the world.
 
 Leaders at times are at a loss of how to stop the bleeding in their organizations or taking it to the next level. Leaders have the job of balancing vision with operation. 
 
-Pausing to get clear is a luxury many leaders think they do not have time for. In reality taking time to reflect, ponder and using association can save time and resources plus the journey becomes more joyful. They learn to trust themselves leading to a sense of adventure and incites curiosity for the next leg of their travels. People who learn to find this sacred space within themselves find themselves more calm and the answers and insights come easier and easier.
+Pausing to get clear is a luxury many leaders think they do not have time for. In reality taking time to reflect, consider and using association can save time and resources plus the journey becomes more joyful. They learn to trust themselves leading to a sense of adventure which incites curiosity for the next leg of their travels. People who learn to find this sacred space within themselves find themselves more calm and the answers and insights come easier with clarity.
 
-Take time to reflect, ponder and use association just 5 minutes a day and work yourself up to 20 minutes a day. I find first thing in the morning works for me and I have come to trust the agenda that presents itself to me. There are many ways to do this like journaling, sitting still and in silence and walking to name a few. 
+Take time to reflect, ponder and use association just 5 minutes a day and work yourself up to 20 minutes a day. I find first thing in the morning works for me and I have come to trust the agenda that presents itself to me. There are many ways to do this like journaling, sitting still in silence and walking to name a few. 
 
 ![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
 
