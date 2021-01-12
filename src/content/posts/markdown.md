@@ -8,59 +8,56 @@ description: "These personal tools exercise mental, emotional, physical and
   dependent on personal investment. "
 featuredImage: /assets/img.sunrisemessage.jpg
 ---
-## Overview
 
-### Philosophy
 
-Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
+### Tapping
 
-Readability, however, is emphasized above all else. A Markdown-formatted
-document should be publishable as-is, as plain text, without looking
-like it's been marked up with tags or formatting instructions. While
-Markdown's syntax has been influenced by several existing text-to-HTML
-filters -- including [Setext](http://docutils.sourceforge.net/mirror/setext.html), [atx](http://www.aaronsw.com/2002/atx/), [Textile](http://textism.com/tools/textile/), [reStructuredText](http://docutils.sourceforge.net/rst.html),
-[Grutatext](http://www.triptico.com/software/grutatxt.html), and [EtText](http://ettext.taint.org/doc/) -- the single biggest source of
-inspiration for Markdown's syntax is the format of plain text email.
+**Tapping** is also known as EFT (Emotional Freedom Technique). It is a powerful holistic healing technique that resolves a range of issues. It's based on the combined principles of ancient Chinese acupressure and modern psychology. The basic **Tapping** technique requires you to focus on a negative emotion at hand.
 
-## Block Elements
+I have been tapping with Brad for years and love his simple straight forward meathod. He has short videos on everything one can imagine to tap about. All you have to do is show up and follow along.
 
-### Paragraphs and Line Breaks
+[Brad Yates - YouTube](<Brad Yates - YouTube>)
 
-A paragraph is simply one or more consecutive lines of text, separated
-by one or more blank lines. (A blank line is any line that looks like a
-blank line -- a line containing nothing but spaces or tabs is considered
-blank.) Normal paragraphs should not be indented with spaces or tabs.
 
-The implication of the "one or more consecutive lines of text" rule is
-that Markdown supports "hard-wrapped" text paragraphs. This differs
-significantly from most other text-to-HTML formatters (including Movable
-Type's "Convert Line Breaks" option) which translate every line break
-character in a paragraph into a `<br />` tag.
 
-When you *do* want to insert a `<br />` break tag using Markdown, you
-end a line with two or more spaces, then type return.
+## Yoga
 
-### Headers
+Yoga is a set of specific exercises, called poses, combined with specific breathing techniques and meditation principles are the building blocks of a yoga class. If a pose causes pain or proves too difficult, there are variations and modifications that can be made to help students. Props like blocks, blankets and straps — even chairs — can be used to help you get the most benefit from the poses. Yoga is not one-size-fits-all: The best yoga workout for you will depend on your individual needs and goals.
 
-Markdown supports two styles of headers, \[Setext] \[1] and \[atx] \[2].
+The benefits of a regular yoga practice are wide-ranging. In general, a complete yoga workout can help keep your back and joints healthy, improve your overall posture, stretch and strengthen muscles and improve your balance, says Roger Cole, Ph.D., a psychobiologist and certified Iyengar yoga teacher. Yoga also has “a restorative side that is deeply relaxing and rejuvenating,” Dr. Cole says. “Relaxation is built into every yoga session.”
 
-Optionally, you may "close" atx-style headers. This is purely
-cosmetic -- you can use this if you think it looks better. The
-closing hashes don't even need to match the number of hashes
-used to open the header. (The number of opening hashes
-determines the header level.)
+In addition, yoga’s focus on the breath can calm you and help you learn to be more mindful of your body, says Dr. Timothy McCall, the author of “Yoga as Medicine,” and that can help you to move with greater ease.
 
-### Blockquotes
+In recent years, more and more research is demonstrating the wide-ranging health benefits of yoga: 
 
-Markdown uses email-style `>` characters for blockquoting. If you're
-familiar with quoting passages of text in an email message, then you
-know how to create a blockquote in Markdown. It looks best if you hard
-wrap the text and put a `>` before every line:
+**Reduce back pain**
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
->
+**Strengthen bones**
+
+**Improve balance**
+
+**Stave off mental decline**
+
+**Reduce stress**
+
+**Relieve depression**
+
+[Yoga With Adriene - YouTube](<Yoga With Adriene - YouTube>)
+
+
+
+
+
+### The Work
+
+<https://thework.com/>
+
+
+
+### Gratitude Exercise
+
+I discovered [Part 1: The 2020 Secret Santa Special - YouTube](<Part 1: The 2020 Secret Santa Special - YouTube>) and use these videos to expand my graditude. 
+
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
 
