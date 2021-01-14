@@ -8,8 +8,6 @@ description: "These personal tools exercise mental, emotional, physical and
   dependent on personal investment. "
 featuredImage: /assets/img.sunrisemessage.jpg
 ---
-
-
 ### Tapping
 
 **Tapping** is also known as EFT (Emotional Freedom Technique). It is a powerful holistic healing technique that resolves a range of issues. It's based on the combined principles of ancient Chinese acupressure and modern psychology. The basic **Tapping** technique requires you to focus on a negative emotion at hand.
@@ -17,8 +15,6 @@ featuredImage: /assets/img.sunrisemessage.jpg
 I have been tapping with Brad for years and love his simple straight forward meathod. He has short videos on everything one can imagine to tap about. All you have to do is show up and follow along.
 
 [Brad Yates - YouTube](<Brad Yates - YouTube>)
-
-
 
 ## Yoga
 
@@ -44,59 +40,33 @@ In recent years, more and more research is demonstrating the wide-ranging health
 
 [Yoga With Adriene - YouTube](<Yoga With Adriene - YouTube>)
 
-
-
-
-
 ### The Work
 
 <https://thework.com/>
-
-
 
 ### Gratitude Exercise
 
 I discovered [Part 1: The 2020 Secret Santa Special - YouTube](<Part 1: The 2020 Secret Santa Special - YouTube>) and use these videos to expand my graditude. 
 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
-
-Markdown allows you to be lazy and only put the `>` before the first
-line of a hard-wrapped paragraph:
-
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> ### Window Medifore
 >
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
-
-Blockquotes can be nested (i.e. a blockquote-in-a-blockquote) by
-adding additional levels of `>`:
-
-> This is the first level of quoting.
+> Look at your life as if sitting on a sofa and looking out a window. There you are big and bold.
 >
-> > This is nested blockquote.
+> Questions
 >
-> Back to the first level.
-
-Blockquotes can contain other Markdown elements, including headers, lists,
-and code blocks:
-
-> ## This is a header.
+> Medifore Formation
 >
-> 1. This is the first list item.
-> 2. This is the second list item.
 >
-> Here's some example code:
 >
-> ```
-> return shell_exec("echo $input | $markdown_script");
-> ```
-
-Any decent text editor should make email-style quoting easy. For
-example, with BBEdit, you can make a selection and choose Increase
-Quote Level from the Text menu.
+> ### Defensive Dung
+>
+> aWe are all defensive at times. The stories we tell ourselves to rationalize our defenses are really nuggets of gold. 
+>
+> Questions.
+>
+>
+>
+> 1.
 
 ### Lists
 
