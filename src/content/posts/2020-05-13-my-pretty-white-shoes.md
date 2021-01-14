@@ -6,7 +6,11 @@ date: 2020-12-09 08:52
 description: Know Thyself
 featuredImage: /assets/img-streamrunning.jpg
 ---
-Know thyself is an ancient Greek aphorism. 
+Know thyself is an ancient Greek aphorism. In 1831 Ralph Waldo Emmerson wrote a poem entitled "know Thyself" on the theme God in Thee. The poem was an anthem to Emerson's belief that "to know thyself" meant knowing that God exists in us all. 
+
+In the Spirit Book, 1857 Allan Kardee asks, "what is the most effective method for quarentining self-improvement and resisting the attraction to wrong doing?"
+
+Knowing oneself is a life long journey that can lead to fullfillment and joy. The purpose to "know oneself" is also important to alighn ourselves with our dreams and goals. To understand this knowledge can help us navigate highs and lows with courage. We cannot control what is outside ourselves but we do control is how we respond. These responses impact our lives more than we comprehend.   
 
 <https://www.16personalities.com/free-personality-test>
 
