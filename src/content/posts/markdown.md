@@ -60,7 +60,7 @@ I discovered [Part 1: The 2020 Secret Santa Special - YouTube](<Part 1: The 2020
 >
 > ### Defensive Dung
 >
-> aWe are all defensive at times. The stories we tell ourselves to rationalize our defenses are really nuggets of gold. 
+> We are all defensive at times. The stories we tell ourselves to rationalize our defenses are really nuggets of gold. 
 >
 > Questions.
 >
