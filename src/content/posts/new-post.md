@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Neon in Games
+title: Anger
 slug: /new-post
 date: 2020-05-09T05:53:16.102Z
 description: Neon
