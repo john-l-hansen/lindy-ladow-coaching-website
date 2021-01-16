@@ -11,7 +11,13 @@ I work with perspective that can change a person's life.  A trajectory change th
 
 Through my own experience, education and passion for leading edge creation I use intuition and various tools that I have discovered on my path to guide my clients to more abundance in whatever form they desire. 
 
-Born and raised an entruenuer I also wanted to help people and dreamed of interviewing them. 
+Born and raised an entrepreneur I am always facinated with business and as an empath I want to help people.
+
+Education: Organizational Communication,Contining Classes, Seminars, Training Events, Coaches and Trainers. 
+
+Positions: 14 Years CFO  10 Mil Construction Company, 4 Years General Manager 25 Mil Construction Co, 7 Years Owner Shipping and Retail, 4 Years 11 Mil Estate Probate Administrator
+
+Experiance: Leaderhip, Management, Coach, Trainer, Speaker, Writer, Business Systems, Contract Administrator, Negotiator
 
 ![Potential](/assets/20201130_me-donia-sunrise.jpg "Potential")
 
