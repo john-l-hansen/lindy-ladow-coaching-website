@@ -15,3 +15,5 @@ Knowing oneself is a life long journey that can lead to fullfillment and joy. Th
 <https://www.16personalities.com/free-personality-test>
 
 This tool is based on the Meyers-Briggs Personality Model that has helped organizations and individuals better understand themselves and the people they collaborate with.
+
+When I was a kid I was facinated with sitting at the window and watch what was going on. Our cat on the lawn, a car drives by, the wind blows, the sun in a certain position. One of my biggest self realizations, it was never the window looking out, it was always the window looking in.
