@@ -16,4 +16,8 @@ Faint, open your eyes and mouth wide open.
 
 Faun, waiting on others. Hug yourself. 
 
-Freeze, wiggle.
+Freeze, wiggle. 
+
+STOPP
+
+Past Traumatic Possibility - We talk about the pain but what about the possibilities?
