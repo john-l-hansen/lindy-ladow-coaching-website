@@ -12,4 +12,4 @@ Go to every reverent moment you can remember in your life. String them together.
 
 Relevant: The quality or state of being closely connected. Appropriate.
 
-What does relevant mean to you? It is personal you are the filter. Live your preferences. The reverence makes it grow. There if the reference.
+What does relevant mean to you? It is personal you are the filter. Live your preferences. The reverence makes it grow. There is the reference of your life.
