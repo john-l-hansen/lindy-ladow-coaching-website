@@ -19,6 +19,8 @@ Positions: 14 Years CFO  $10Ml Construction Company, 4 Years General Manager $25
 
 Experiance: Leaderhip, Management, Coach, Trainer, Speaker, Writer, Business Systems, Contract Administrator, Negotiator
 
+Personal Positions: Dreamer, Sister, Friend, Wife, Mother, Grandmother, Writer, Gardner, Chaos Chef, Reader, Gamer, Roller Skater and Dog Walker
+
 ![Potential](/assets/20201130_me-donia-sunrise.jpg "Potential")
 
 ## Testimonials
