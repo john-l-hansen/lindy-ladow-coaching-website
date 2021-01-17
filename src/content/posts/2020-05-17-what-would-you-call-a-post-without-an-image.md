@@ -3,7 +3,7 @@ template: blog-post
 title: Reverent, Relevant and Reference
 slug: /reverent, relevant, reference
 date: 2020-05-11 08:40
-description: Birth, marriage and death. Life is about the marriage of ideas and concepts
+description: Reverant, Relevant and Reference
 featuredImage: /assets/cloudmelody.jpg
 ---
 **Reverent: adoration, feeling or showing deep and solumn respect. Worship silently. Feeling deep connection.   Webster Dictionary**
