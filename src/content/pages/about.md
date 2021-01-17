@@ -13,7 +13,7 @@ Through my own experience, education and passion for leading edge creation I use
 
 Born and raised an entrepreneur I am always facinated with business and as an empath I want to help people.
 
-Education: Organizational Communication, Continous Classes, Seminars, Training Events, Coaches and Trainers. 
+Education: Organizational Communication, Continuous Classes, Seminars, Training Events, Coaches and Trainers. 
 
 Positions: 14 Years CFO  $10Ml Construction Company, 4 Years General Manager $25M Construction Co, 7 Years Owner Shipping and Retail Store, 4 Years $11M Probate Estate Administrator
 
