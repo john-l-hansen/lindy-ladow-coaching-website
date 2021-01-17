@@ -12,7 +12,7 @@ Go to every reverent moment you can remember in your life. String them together.
 
 **Relevant: The quality or state of being closely connected. Appropriate. Webster Dictionary**
 
-What does relevant mean to you? It is personal you are the filter. 
+What does relevant mean to you? It is personal, you are the filter. 
 
 Live your preferences. 
 
@@ -23,5 +23,3 @@ There is the reference of your life.
 > *Follow your bliss and the universe will open doors for you where there were only walls.* 
 >
 >  *\    Joseph Cambell*
->
->
