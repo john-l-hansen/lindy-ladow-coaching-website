@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Reverent, Relevant and Reference
-slug: /reverent, relevant, reference
+slug: /reverent_relevant_reference
 date: 2020-05-11 08:40
 description: Reverant, Relevant and Reference
 featuredImage: /assets/cloudmelody.jpg
