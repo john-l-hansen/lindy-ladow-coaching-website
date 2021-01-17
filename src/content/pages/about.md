@@ -15,7 +15,7 @@ Born and raised an entrepreneur I am always facinated with business and as an em
 
 Education: Organizational Communication, Continuous Classes, Seminars, Training Events, Coaches and Trainers. 
 
-Positions: 14 Years CFO  $10Ml Construction Company, 4 Years General Manager $25M Construction Co, 7 Years Owner Shipping and Retail Store, 4 Years $11M Probate Estate Administrator
+Positions: 14 Years CFO  $10Ml Construction Company, 4 Years General Manager $25M Construction Co, 7 Years Owner Shipping and Retail Store, 4 Years $11M Probate Estate Administrator, 20+ Years Coach
 
 Experiance: Leaderhip, Management, Coach, Trainer, Speaker, Writer, Business Systems, Contract Administrator, Negotiator
 
