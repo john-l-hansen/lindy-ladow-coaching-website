@@ -40,6 +40,35 @@ In recent years, more and more research is demonstrating the wide-ranging health
 
 [Yoga With Adriene - YouTube](<Yoga With Adriene - YouTube>)
 
+## Alternate Nostril Breathing Calm the Mind and Reverse Stress
+
+This is one of my favorite breathing tools. I use when I have a few minutes alone before a presentation, an event or a stressful or exciting situation. In addition to calming the mind and reversing stress, alternate nostril breathing also:
+
+* *Improves our ability to focus the mind*
+* *Supports our lungs and respiratory functions*
+* *Restores balance in the left and right hemispheres of the brain, and clears the energetic channels*
+* *Rejuvenates the nervous system*
+* *Removes toxins*
+* *Settles stress*
+
+### Reset Mental State
+
+Next time you find yourself doing too many things at once, or you sense panic or anxiety begin to rise, move through a few rounds of alternate nostril breathing. Hit the reset button for your mental state.
+
+1. *Take a comfortable and tall seat, making sure your spine is straight and your heart is open.*
+2. *Relax your left palm comfortably into your lap and bring your right hand just in front of your face.*
+3. *With your right hand, bring your pointer finger and middle finger to rest between your eyebrows, lightly using them as an anchor. The fingers we’ll be actively using are the thumb and ring finger.*
+4. *Close your eyes and take a deep breath in and out through your nose.*
+5. *Close your right nostril with your right thumb. Inhale for 4 counts through the left nostril slowly and steadily.*
+6. *Close the left nostril with your ring finger so both nostrils are held closed; retain your breath at the top of the inhale for 4 counts.*
+7. *Open your right nostril and release the breath slowly for 7 counts.*
+8. *Inhale through the right side slowly for 4 counts.*
+9. *Hold both nostrils closed for 4 counts (with ring finger and thumb).*
+10. *Open your left nostril and release breath slowly through the left side for 7 counts.* 
+11. *Repeat 5-10 cycles, allowing your mind to follow your inhales and exhales.*
+
+Steps 5-9 represent one complete cycle of alternate nostril breathing. If you’re moving through the sequence slowly, one cycle should take you about 30-40 seconds. Move through 5-10 cycles when you’re feeling stressed, anxious, or in need of a reset button.
+
 ### The Work
 
 <https://thework.com/>
@@ -56,246 +85,10 @@ I discovered [Part 1: The 2020 Secret Santa Special - YouTube](<Part 1: The 2020
 >
 > Medifore Formation
 >
->
->
 > ### Defensive Dung
 >
 > We are all defensive at times. The stories we tell ourselves to rationalize our defenses are really nuggets of gold. 
 >
 > Questions.
 >
->
->
 > 1.
-
-### Lists
-
-Markdown supports ordered (numbered) and unordered (bulleted) lists.
-
-Unordered lists use asterisks, pluses, and hyphens -- interchangably
--- as list markers:
-
-* Red
-* Green
-* Blue
-
-is equivalent to:
-
-* Red
-* Green
-* Blue
-
-and:
-
-* Red
-* Green
-* Blue
-
-Ordered lists use numbers followed by periods:
-
-1. Bird
-2. McHale
-3. Parish
-
-It's important to note that the actual numbers you use to mark the
-list have no effect on the HTML output Markdown produces. The HTML
-Markdown produces from the above list is:
-
-If you instead wrote the list in Markdown like this:
-
-1. Bird
-2. McHale
-3. Parish
-
-or even:
-
-3. Bird
-4. McHale
-5. Parish
-
-you'd get the exact same HTML output. The point is, if you want to,
-you can use ordinal numbers in your ordered Markdown lists, so that
-the numbers in your source match the numbers in your published HTML.
-But if you want to be lazy, you don't have to.
-
-To make lists look nice, you can wrap items with hanging indents:
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-  viverra nec, fringilla in, laoreet vitae, risus.
-* Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-But if you want to be lazy, you don't have to:
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-  viverra nec, fringilla in, laoreet vitae, risus.
-* Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-List items may consist of multiple paragraphs. Each subsequent
-paragraph in a list item must be indented by either 4 spaces
-or one tab:
-
-1. This is a list item with two paragraphs. Lorem ipsum dolor
-   sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-   mi posuere lectus.
-
-   Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-   vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-   sit amet velit.
-2. Suspendisse id sem consectetuer libero luctus adipiscing.
-
-It looks nice if you indent every line of the subsequent
-paragraphs, but here again, Markdown will allow you to be
-lazy:
-
-* This is a list item with two paragraphs.
-
-  ```
-  This is the second paragraph in the list item. You're
-  ```
-
-  only required to indent the first line. Lorem ipsum dolor
-  sit amet, consectetuer adipiscing elit.
-* Another item in the same list.
-
-To put a blockquote within a list item, the blockquote's `>`
-delimiters need to be indented:
-
-* A list item with a blockquote:
-
-  > This is a blockquote
-  > inside a list item.
-
-To put a code block within a list item, the code block needs
-to be indented *twice* -- 8 spaces or two tabs:
-
-* A list item with a code block:
-
-  ```
-  <code goes here>
-  ```
-
-### Code Blocks
-
-Pre-formatted code blocks are used for writing about programming or
-markup source code. Rather than forming normal paragraphs, the lines
-of a code block are interpreted literally. Markdown wraps a code block
-in both `<pre>` and `<code>` tags.
-
-To produce a code block in Markdown, simply indent every line of the
-block by at least 4 spaces or 1 tab.
-
-```javascript
-import React from "react"
-import { Link, useStaticQuery, graphql } from "gatsby"
-import Navigation from "../components/navigation"
-
-export default ({ children }) => {
-  const data = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-          }
-        }
-      }
-    `
-  )
-  return (
-    <div className="site-wrapper">
-      <header className="site-header">
-        <div className="site-title">
-          <Link to="/">{data.site.siteMetadata.title}</Link>
-        </div>
-        <Navigation />
-      </header>
-      {children}
-    </div>
-  )
-}
-```
-
-This is a normal paragraph:
-
-`This is a code block.`
-
-Here is an example of AppleScript:
-
-```
-tell application "Foo"
-    beep
-end tell
-```
-
-A code block continues until it reaches a line that is not indented
-(or the end of the article).
-
-Within a code block, ampersands (`&`) and angle brackets (`<` and `>`)
-are automatically converted into HTML entities. This makes it very
-easy to include example HTML source code using Markdown -- just paste
-it and indent it, and Markdown will handle the hassle of encoding the
-ampersands and angle brackets. For example, this:
-
-```
-<div class="footer">
-    &copy; 2004 Foo Corporation
-</div>
-```
-
-![Royal Mail](/assets/royal-mail-unsplash.jpg "TOOLS")
-
-Regular Markdown syntax is not processed within code blocks. E.g.,
-asterisks are just literal asterisks within a code block. This means
-it's also easy to use Markdown to write about Markdown's own syntax.
-
-```shell
-tell application "Foo"
-    beep
-end tel
-```
-
-## Span Elements
-
-### Links
-
-Markdown supports two style of links: *inline* and *reference*.
-
-In both styles, the link text is delimited by \[square brackets].
-
-To create an inline link, use a set of regular parentheses immediately
-after the link text's closing square bracket. Inside the parentheses,
-put the URL where you want the link to point, along with an *optional*
-title for the link, surrounded in quotes. For example:
-
-This is [an example](http://example.com/) inline link.
-
-[This link](http://example.net/) has no title attribute.
-
-### Emphasis
-
-Markdown treats asterisks (`*`) and underscores (`_`) as indicators of
-emphasis. Text wrapped with one `*` or `_` will be wrapped with an
-HTML `<em>` tag; double `*`'s or `_`'s will be wrapped with an HTML
-`<strong>` tag. E.g., this input:
-
-*single asterisks*
-
-*single underscores*
-
-**double asterisks**
-
-**double underscores**
-
-### Code
-
-To indicate a span of code, wrap it with backtick quotes (`` ` ``).
-Unlike a pre-formatted code block, a code span indicates code within a
-normal paragraph. For example:
-
-Use the `printf()` function.
-
-<iframe src="https://sunflower-business-mobi.netlify.app/" width="600" height="400"></iframe>
