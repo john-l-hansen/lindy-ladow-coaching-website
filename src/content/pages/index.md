@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Lindy LaDow
 tagline: Business and Transformation Coach
-featuredImage: /assets/mom2-copy.jpg
+featuredImage: /assets/mom5.jpg
 cta:
   ctaText: More about me
   ctaLink: /about
