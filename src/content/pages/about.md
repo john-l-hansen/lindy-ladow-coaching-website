@@ -13,13 +13,21 @@ Through my own experience, education and passion for leading edge creation I use
 
 Born and raised as an entrepreneur I am facinated with business.  As an empath my desire is to help people become the best version of themselves. 
 
-Education: Organizational Communication, Continuous Classes, Seminars, Training Events, Coaches and Trainers. 
-
 Positions: 14 Years CFO  $10Ml Construction Company, 4 Years General Manager $25M Construction Co, 7 Years Owner Shipping and Retail Store, 4 Years $11M Probate Estate Administrator, 20+ Years Coach
 
-Experiance: Leaderhip, Management, Coach, Trainer, Speaker, Writer, Business Systems, Contract Administrator, Negotiator
 
-Personal Positions: Dreamer, Sister, Friend, Wife, Mother, Grandmother, Writer, Gardner, Chaos Chef, Reader, Gamer, Roller Skater and Dog Walker
+
+Education: Organizational Communication
+
+Contining Education through Classes, Seminars, Training Events, Coaches and Trainers. 
+
+Certified: CBT, NLP, Life Coaching, Supervision and Leadership, Employment Law, Employee Complaint Investigation, 10 Hour OSHA Training
+
+Continuing Education: Make It Fly (Entrepreneur Forum), Contracts and Construction Law
+
+Experiance: Leadership, Owner, Management, Coach, Trainer, Speaker, Writer, Business Systems, Contract Administrator, Negotiator
+
+Personal Positions: Wife, Mother, Grandmother, Chaos Chef, Gardner, Reader, Gamer, Roller Skater and Dog Walker
 
 ![Potential](/assets/20201130_me-donia-sunrise.jpg "Potential")
 
