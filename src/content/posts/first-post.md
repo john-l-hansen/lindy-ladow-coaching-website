@@ -2,7 +2,7 @@
 template: blog-post
 title: Change
 slug: /change
-date: 2019-07-10T00:00:00.000Z
+date: 2020-07-09 17:00
 description: Change
 featuredImage: /assets/img-sunflower.jpg
 ---
