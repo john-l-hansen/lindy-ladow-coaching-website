@@ -93,16 +93,6 @@ I discovered [Part 1: The 2020 Secret Santa Special - YouTube](<Part 1: The 2020
 >
 > 1.
 
-
-
-
-
-
-
-
-
-
-
 ## Breath Workouts
 
 One of the habits that we can add to our toolbox is Breathwork. Breathing delivers oxygen throughout our bodies and removes carbon dioxide. Breath activates our parasympathic nevous system which slows down heart rate and lowers blood pressure. Studies have shown that breathwork can help with issues such as anger, PTSD, anxiety, chronic pain, depression and the emotional effects of illness.
@@ -154,3 +144,23 @@ There are several breathwork practices and exercises out there. I encourage you 
 > *Sitiali*
 >
 > *Deep*
+
+
+
+
+
+The five facets of fear and what we can do physically to give ourselves the space.
+
+When we respond with anger, picture yourself oozing. 
+
+Flight is running physically or mentally away. Ground yourself, imagine you are a sumo wrestler, dig your heels into the ground and raise your arms in right angels parralel with your shoulders.
+
+Faint, open your eyes and mouth wide open. 
+
+Faun, waiting on others. Hug yourself. 
+
+Freeze, wiggle. 
+
+Past Traumatic Possibility - We talk about the pain but what about the possibilities?
+
+STOPP
