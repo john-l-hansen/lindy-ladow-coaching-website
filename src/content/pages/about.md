@@ -11,7 +11,7 @@ I work with perspective that can change a person's life.  A trajectory change th
 
 Through my own experience, education and passion for leading edge creation I use intuition, hign level complex pattern recognition and various tools that I have discovered on my path to guide my clients to more abundance in whatever form they desire. 
 
-Born and raised an entrepreneur I am always facinated with business and as an empath I want to help people.
+Born and raised as an entrepreneur I am facinated with business.  As an empath my desire is to help people become the best version of themselves. 
 
 Education: Organizational Communication, Continuous Classes, Seminars, Training Events, Coaches and Trainers. 
 
