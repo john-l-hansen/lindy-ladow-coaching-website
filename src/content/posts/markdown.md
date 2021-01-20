@@ -2,7 +2,7 @@
 template: blog-post
 title: Tools
 slug: /tools
-date: 2020-03-14 22:53
+date: 2020-01-20 10:19
 description: "These personal tools exercise mental, emotional, physical and
   spiritual muscles. The benefits are immense and range in degree and diversity
   dependent on personal investment. "
