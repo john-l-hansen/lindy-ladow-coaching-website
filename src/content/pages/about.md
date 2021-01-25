@@ -23,11 +23,7 @@ Estate Administrator $11 Million Estate in Orange County Probate Court. Closed 6
 
 On the subject of education I am a continious student. I attended 5 universities, several junior colleges, seminars, training events and use trainers and coaches focusing on business communication. 
 
-Certified: CBT, NLP, Life Coaching, Supervision and Leadership, Employment Law, Employee Complaint Investigation, 10 Hour OSHA Training
-
-Continuing Education: Make It Fly (Entrepreneur Forum), Contracts and Construction Law
-
-Experiance: Leadership, Owner, Management, Coach, Trainer, Speaker, Writer, Business Systems, Contract Administrator, Negotiator
+Certified: CBT(in progress), NLP, Life Coaching, Supervision and Leadership, Employment Law, Employee Complaint Investigation, 10 Hour OSHA Training
 
 Personal Positions: Wife, Mother, Grandmother, Chaos Chef, Gardner, Reader, Gamer, Roller Skater and Dog Walker
 
