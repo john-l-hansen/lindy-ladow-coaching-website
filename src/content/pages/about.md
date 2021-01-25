@@ -19,7 +19,7 @@ Shipping/Retail Store, all 3 of my children graduated from our service store wit
 
 14 Years CFO Commercial Construction Company overseeing small to large contracts including $25 Million contracts with Los Angeles Times. I worked with a team of professionals who enjoyed their work.
 
-Estate Administrator $11 Million Estate in Orange County Probate Court. Closed 63 companies, sold 2 Commercial Properties, 1 Luxury Residential Property, Vechicles including Sprinter Limo, Tricked out Harley and a Duffy Boat. Ran Several business with Employees until closed and chased a trademark across  Europe. This was an extremely complicated and because I had the best attorney on the planet we closed this estate with intrigity. 
+Estate Administrator $11 Million Estate in Orange County Probate Court. Closed 63 companies, sold 2 Commercial Properties, 1 Luxury Residential Property, Vechicles including Sprinter Limo, Tricked out Harley and a Duffy Boat. Ran Several business with Employees until closed and chased a trademark across  Europe. This was an extremely complicated and because I had the best attorney on the planet we closed this estate with integrity. 
 
 Education: Organizational Communication
 
