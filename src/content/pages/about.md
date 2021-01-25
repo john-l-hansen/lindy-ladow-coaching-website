@@ -15,7 +15,7 @@ Born and raised as an entrepreneur I am facinated with business.  As an empath m
 
 Proudest Business Acheivments: 
 
-Shipping/Retail Store, where all 3 of my children graduated from our service store with a business education and experience. Their education included start-up, accounting, sales and operations to the successful sale after 7 years.
+Shipping and Retail Store, where all 3 of my children graduated with business education and experience. Their education included start-up, accounting, sales and operations to the successful sale after 7 years.
 
 14 Years CFO Commercial Construction Company overseeing small to large contracts including $25 Million contracts with Los Angeles Times. I worked with a team of professionals who enjoyed their work.
 
