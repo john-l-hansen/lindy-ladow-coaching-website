@@ -21,9 +21,7 @@ Shipping/Retail Store, all 3 of my children graduated from our service store wit
 
 Estate Administrator $11 Million Estate in Orange County Probate Court. Closed 63 companies, sold 2 Commercial Properties, 1 Luxury Residential Property, Vechicles including Sprinter Limo, Tricked out Harley and a Duffy Boat. Ran Several business with Employees until closed and chased a trademark across  Europe. This was an extremely complicated and because I had the best attorney on the planet we closed this estate with integrity. 
 
-On the subject of education I am a continious student. I attended 5 universities, several junior colleges, seminars, training events and use trainers and coaches.
-
-
+On the subject of education I am a continious student. I attended 5 universities, several junior colleges, seminars, training events and use trainers and coaches focusing on business communication. 
 
 Certified: CBT, NLP, Life Coaching, Supervision and Leadership, Employment Law, Employee Complaint Investigation, 10 Hour OSHA Training
 
