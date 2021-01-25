@@ -13,9 +13,13 @@ Through my own experience, education and passion for leading edge creation I use
 
 Born and raised as an entrepreneur I am facinated with business.  As an empath my desire is to help people become the best version of themselves. 
 
-Positions: 14 Years CFO  $10Ml Construction Company, 4 Years General Manager $25M Construction Co, 7 Years Owner Shipping and Retail Store, 4 Years $11M Probate Estate Administrator, 20+ Years Coach
+Proudest Business Acheivments: 
 
+Shipping/Retail Store, all 3 of my children graduated from our service store with business and experience. Their education included start-up, accounting, sales and operations to the successful sale after 7 years.
 
+14 Years CFO Commercial Construction Company overseeing small to large contracts including $25 Million contracts with Los Angeles Times. I worked with a team of professionals who enjoyed their work.
+
+Estate Administrator $11 Million Estate in Orange County Probate Court. Closed 63 companies, sold 2 Commercial Properties, 1 Luxury Residential Property, Vechicles including Sprinter Limo, Tricked out Harley and a Duffy Boat. Ran Several business with Employees until closed and chased a trademark across  Europe. This was an extremely complicated and because I had the best attorney on the planet we closed this estate with intrigity. 
 
 Education: Organizational Communication
 
