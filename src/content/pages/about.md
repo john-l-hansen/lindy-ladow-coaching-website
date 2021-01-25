@@ -29,11 +29,15 @@ Personal Best Experiences:
 
 Family
 
-Started and ran the first Traverse City Youth Theater Summer Program in Michigan.
+Started Youth Theater Program for Unity Church in Traverse City and the first Youth Theater Summer Camp Program in Michigan.
 
-Started Youth Theater Program for Unity Church in Traverse City MI.
+Fishing Club in High School
 
+All the Businesses
 
+What I love to do for fun:   Walking my dog, yoga, gaming (acheivement top 3% in the world), reading, roller skating, hiking, mountains, cooking and gardening.
+
+What is my passion? COACHING 
 
 ![Potential](/assets/20201130_me-donia-sunrise.jpg "Potential")
 
