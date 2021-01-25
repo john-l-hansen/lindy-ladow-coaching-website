@@ -5,7 +5,7 @@ title: About Lindy LaDow
 ---
 ## Potential
 
-I believe in potential - that all humans beings have more potential no matter where we find ourselves in life. 
+I believe in potential - in humans beings more potential no matter where we find ourselves in life. 
 
 I work with perspective that can change a person's life.  A trajectory change that frees a person to become what they dream. These are not big changes, these are tiny shifts in their belief foundation. A foundation that was built upon experiences and perceptions wholly unique to each individual. Therefore the insights come from each person's understanding. This lays a personal foundation built with self-trust, confidence and clarity.
 
