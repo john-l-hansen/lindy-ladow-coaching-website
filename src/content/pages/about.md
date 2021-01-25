@@ -25,7 +25,15 @@ On the subject of education I have a evergreen clause. I attended 5 universities
 
 Certified: CBT(in progress), NLP, Life Coaching, Supervision and Leadership, Employment Law, Employee Complaint Investigation, 10 Hour OSHA Training
 
-Personal
+Personal Best Experiences:
+
+Family
+
+Started and ran the first Traverse City Youth Theater Summer Program in Michigan.
+
+Started Youth Theater Program for Unity Church in Traverse City MI.
+
+
 
 ![Potential](/assets/20201130_me-donia-sunrise.jpg "Potential")
 
