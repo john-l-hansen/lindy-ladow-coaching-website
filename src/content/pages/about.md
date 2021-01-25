@@ -7,15 +7,15 @@ title: About Lindy LaDow
 
 I believe in potential - in a human being's more potential no matter where one finds self in life. 
 
-I work with perspective and that can change a person's life.  A trajectory change that frees a person to become what they dream. These tiny shifts lead to transformations thought unattainable. to the Almighty and a foundation that was built upon experiences and perceptions wholly unique to each individual. Therefore the insights come from each person's understanding. This lays a personal foundation built with self-trust, confidence and clarity.
+I work with perspective and that can change a person's life. A trajectory change that frees a person to become what they dream. These tiny shifts lead to transformations thought unattainable and a foundation built upon the experiences and perceptions wholly unique to each individual meaning a solid foundation. These personal insights also create more self-trust, confidence and clarity. 
 
-Through my own experience, education and passion for leading edge creation I use intuition, hign level complex pattern recognition and various tools that I have discovered on my path to guide my clients to more abundance in whatever form they desire. 
+I coach with my own experience, education and a passion for leading edge creation. I use intuition, hign level complex pattern recognition and various tools that I have discovered on my path to guide my clients to more abundance in whatever form they desire. 
 
 Born and raised as an entrepreneur I am facinated with business.  As an empath my desire is to help people become the best version of themselves. 
 
 Proudest Business Acheivments: 
 
-Shipping/Retail Store, all 3 of my children graduated from our service store with business and experience. Their education included start-up, accounting, sales and operations to the successful sale after 7 years.
+Shipping/Retail Store, where all 3 of my children graduated from our service store with a business education and experience. Their education included start-up, accounting, sales and operations to the successful sale after 7 years.
 
 14 Years CFO Commercial Construction Company overseeing small to large contracts including $25 Million contracts with Los Angeles Times. I worked with a team of professionals who enjoyed their work.
 
