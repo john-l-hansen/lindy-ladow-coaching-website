@@ -15,11 +15,11 @@ Born and raised as an entrepreneur I am facinated with business.  As an empath m
 
 Proudest Business Acheivments: 
 
-Shipping and Retail Store, where all 3 of my children graduated with business education and experience. Their education included start-up, accounting, sales, operations and the successful sale of the business after 7 years of community service.
+Created a shipping and retail store, where all 3 of my children graduated with business education and experience. Their education included start-up, accounting, sales, operations and the successful sale of the business after 7 years of community service.
 
 I served for 14 Years as CFO for a commercial construction company overseeing small to large contracts including $25 Million in contracts with The Los Angeles Times. I worked with a team of professionals who enjoyed their work.
 
-Estate Administrator $11 Million Estate in Orange County Probate Court. Closed 63 companies, sold 2 Commercial Properties, 1 Luxury Residential Property, Vechicles including Sprinter Limo, Tricked out Harley and a Duffy Boat. Ran Several business with Employees until closed and chased a trademark across  Europe. This was an extremely complicated and because I had the best attorney on the planet we closed this estate with integrity. 
+Estate Administrator to an $11 Million Estate in Orange County Probate Court. Closed 63 companies, sold 2 commercial properties, 1 luxury residential property, vechicles including sprinter limo, a tricked out Harley and a Duffy Boat. Ran several business until closed and chased a trademark across  Europe. This was an extremely complicated estate and because I had the best attorney on the planet we closed this estate in a timely matter with integrity. 
 
 On the subject of education I have a evergreen clause. I attended 5 universities, several junior colleges, seminars, training events and use trainers and coaches focusing on business communication. 
 
@@ -28,6 +28,8 @@ Certified: CBT(in progress), NLP, Life Coaching, Supervision and Leadership, Emp
 Personal Best Experiences:
 
 Family
+
+MeMa Camp
 
 Started Youth Theater Program for Unity Church in Traverse City and the first Youth Theater Summer Camp Program in Michigan.
 
