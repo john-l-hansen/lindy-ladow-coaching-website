@@ -3,41 +3,21 @@ template: about-page
 slug: /about
 title: About Lindy LaDow
 ---
-**I work with perspective and I believe strongly that perspective is critical to changing ones' life. Small shifts in perspective add up to transformations previously thought unattainable and build upon a foundation that solidifies with experiences, self-trust, confidence and clarity.**
+I work with perspective and I believe strongly that perspective is critical to changing ones' life. Small shifts in perspective add up to transformations previously thought unattainable and build upon a foundation that solidifies with experiences, self-trust, confidence and clarity.
 
-**I coach using my experiences, which incorporate formal education as well as being a high level executive and business creator. I also utilize intuition, pattern recognition and other tools that have proven critical to helping others.**
+I coach using my experiences, which incorporate formal education as well as being a high level executive and business creator. I also utilize intuition, pattern recognition and other tools that have proven critical to helping others.
 
+Coming from a family of entrepreneurs has gifted me a lifelong passion for business. As an empath my desire is to help people become the best version of themselves.
 
+Served for 14 years as Chief Financial Officer for a commercial construction company that averaged $10m a year in earnings. I was involved in contract review with counsel as well as day-to-day operations.
 
-I coach with my own experience, education and a passion for leading edge creation. I use intuition, hign level complex pattern recognition and various tools that I have discovered on my path to guide my clients to more abundance in whatever form they desire. 
+General Manager of a mid-sized service company in which I helped develop work processes for sales, accounting, project management and operations teams. I was fortunate to be involved in shifting the company into modern business practices including contract management review, marketing presence (including SEO, website and branding revisions) as well as updating work practices for several departments.
 
-Born and raised as an entrepreneur I am facinated with business.  As an empath my desire is to help people become the best version of themselves. 
+Founded a small business focused on retail and shipping services. This endeavour was primarily used as an educational tool for my three children in which I am proud to say they graduated with full honors. Some of our favorite moments are setting up new relationships with vendors, letting my children learn how to create work practices and processes, reviewing Profit and Loss sheets with them - and the passionate dinner conversations about what to shift and change to keep up with the ever changing requirements of customers.
 
-Proudest Business Acheivments: 
+Estate Administrator to an $11m estate in Orange County Probate Court which included closing out over 60 different companies, selling off commercial and residential properties, and running several companies that were in operation until assets were sold. One of the most interesting challenges was chasing a trademark throughout Europe validating that no infringements were committed.
 
-Created a shipping and retail store, where all 3 of my children graduated with business education and experience. Their education included start-up, accounting, sales, operations and the successful sale of the business after 7 years of community service.
-
-I served for 14 Years as CFO for a commercial construction company overseeing small to large contracts including $25 Million in contracts with The Los Angeles Times. I worked with a team of professionals who enjoyed their work.
-
-Estate Administrator to an $11 Million Estate in Orange County Probate Court. Closed 63 companies, sold 2 commercial properties, 1 luxury residential property, vechicles including sprinter limo, a tricked out Harley and a Duffy Boat. Ran several business until closed and chased a trademark across  Europe. This was an extremely complicated estate and because I had the best attorney on the planet we closed this estate in a timely matter with integrity. 
-
-On the subject of education I have a evergreen clause. I attended 5 universities, several junior colleges, seminars, training events and use trainers and coaches focusing on business communication. 
-
-Certified: CBT(in progress), NLP, Life Coaching, Supervision and Leadership, Employment Law, Employee Complaint Investigation, 10 Hour OSHA Training
-
-Personal Best Experiences:
-
-Family
-
-MeMa Camp
-
-Started Youth Theater Program for Unity Church in Traverse City and the first Youth Theater Summer Camp Program in Michigan.
-
-Fishing Club in High School
-
-All the Businesses
-
-What I love to do for fun:   Walking my dog, yoga, gaming (acheivement top 3% in the world), reading, roller skating, hiking, mountains, cooking and gardening.
+What I love to do for fun: Walking my dog, yoga, gaming, reading, roller skating, hiking, mountains, cooking and gardening.
 
 What is my passion? COACHING 
 
