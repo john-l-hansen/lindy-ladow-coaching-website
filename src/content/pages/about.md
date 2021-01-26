@@ -5,6 +5,10 @@ title: About Lindy LaDow
 ---
 **I work with perspective and I believe strongly that perspective is critical to changing ones' life. Small shifts in perspective add up to transformations previously thought unattainable and build upon a foundation that solidifies with experiences, self-trust, confidence and clarity.**
 
+**I coach using my experiences, which incorporate formal education as well as being a high level executive and business creator. I also utilize intuition, pattern recognition and other tools that have proven critical to helping others.**
+
+
+
 I coach with my own experience, education and a passion for leading edge creation. I use intuition, hign level complex pattern recognition and various tools that I have discovered on my path to guide my clients to more abundance in whatever form they desire. 
 
 Born and raised as an entrepreneur I am facinated with business.  As an empath my desire is to help people become the best version of themselves. 
