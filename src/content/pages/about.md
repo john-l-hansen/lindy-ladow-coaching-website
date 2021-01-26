@@ -3,11 +3,7 @@ template: about-page
 slug: /about
 title: About Lindy LaDow
 ---
-## Potential
-
-I believe in potential - in a human being's more potential no matter where one finds self in life. 
-
-I work with perspective and that can change a person's life. A trajectory change that frees a person to become what they dream. These tiny shifts lead to transformations thought unattainable and a foundation built upon the experiences and perceptions wholly unique to each individual meaning a solid foundation. These personal insights also create more self-trust, confidence and clarity. 
+**I work with perspective and I believe strongly that perspective is critical to changing ones' life. Small shifts in perspective add up to transformations previously thought unattainable and build upon a foundation that solidifies with experiences, self-trust, confidence and clarity.**
 
 I coach with my own experience, education and a passion for leading edge creation. I use intuition, hign level complex pattern recognition and various tools that I have discovered on my path to guide my clients to more abundance in whatever form they desire. 
 
