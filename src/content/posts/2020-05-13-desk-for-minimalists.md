@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Business Development
-slug: /minimalists-desk
+slug: /businessdevelopment
 date: 2020-05-13 12:46
 description: sdasd
 featuredImage: /assets/img-cloudwave.jpg
@@ -16,11 +16,7 @@ Pausing to get clear is a luxury many leaders think they do not have time for. I
 
 Take time to reflect, ponder and use association just 5 minutes a day and work yourself up to 20 minutes a day. Morning works for me. There are many ways to do this like journaling, sitting still in silence and walking to name a few. 
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
-
-## It doesn't look so shiny to me.
-
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+![](/assets/goodmorningla.jpeg)
 
 ![]()
 
