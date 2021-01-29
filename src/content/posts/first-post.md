@@ -6,9 +6,7 @@ date: 2020-07-09 17:00
 description: Change
 featuredImage: /assets/img-cloudmelody.jpg
 ---
-
-
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+![]()
 
 ## It doesn't look so shiny to me.
 
