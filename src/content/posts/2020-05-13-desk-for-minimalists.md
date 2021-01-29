@@ -3,7 +3,7 @@ template: blog-post
 title: Business Development
 slug: /businessdevelopment
 date: 2020-05-13 12:46
-description: sdasd
+description: Business Development
 featuredImage: /assets/img-cloudwave.jpg
 ---
 Creating and/or developing a business has a lot of moving parts. The spine of the company is the Chart of Accounts. From there there are endless possiblities. 
@@ -19,5 +19,3 @@ Take time to reflect, ponder and use association just 5 minutes a day and work y
 ![](/assets/goodmorningla.jpeg)
 
 ![]()
-
-1.
