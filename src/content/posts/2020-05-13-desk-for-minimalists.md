@@ -14,7 +14,7 @@ As businesses grow and adapt to outside influences and internal evolutions, lead
 
 Pausing to get clear is a luxury many leaders think they do not have time for. Taking time to reflect, consider and using association can save time and resources plus the path becomes encouraging. Trust leads to a sense of adventure which incites curiosity. Learning to find this sacred space, calms and provides insights.
 
-Take time to reflect, ponder and use association 5 minutes a day and work yourself up to 20 minutes a day. Association means linking as many similar ideas, words, energy you can. Morning works for me. There are many ways to do this like journaling, sitting still in silence, meditation and walking to name a few.
+Take time to reflect, ponder and use association 5 minutes a day and work yourself up to 20 minutes a day. Association means noticing and linking as many similar ideas, words, patterns and/or energy. Morning works for me. Some ways; journaling, sitting still in silence, meditation, singing, dancing, drawing, hobby and walking.
 
 ![](/assets/goodmorningla.jpeg)
 
