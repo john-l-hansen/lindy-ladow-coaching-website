@@ -12,7 +12,7 @@ Like building a house, the foundation of a business is key. I used to say that t
 
 As businesses grow and adapt to outside influences and internal evolutions, leaders are striving for more collaboration in production and services. Leaders have the job of balancing vision with operation.
 
-Pausing to get clear is a luxury many leaders think they do not have time for. Taking time to reflect, consider and use association can save time and resources plus the path becomes clarified. Trust leads to a sense of adventure which incites curiosity. Learning to find this sacred space, calms and provides insights.
+Pausing to get clear is a luxury many leaders think they do not have time for. Taking time to reflect, consider and using association can save time and resources plus the path becomes encouraging. Trust leads to a sense of adventure which incites curiosity. Learning to find this sacred space, calms and provides insights.
 
 Take time to reflect, ponder and use association 5 minutes a day and work yourself up to 20 minutes a day. Association means linking as many similar ideas, words, energy you can. Morning works for me. There are many ways to do this like journaling, sitting still in silence, meditation and walking to name a few.
 
