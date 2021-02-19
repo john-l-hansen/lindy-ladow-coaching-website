@@ -9,6 +9,6 @@ For fun I walk my dog, yoga, game, read, roller skate, hike, cook and garden.
 
 ## Testimonials
 
-### Laurie X
+### Lauren from Canada
 
-> Laurie says great stuff.
+> Lauren says "great stuff."
