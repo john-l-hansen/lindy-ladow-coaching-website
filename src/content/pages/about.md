@@ -7,7 +7,7 @@ What do I love? Coach, Coach and more Coaching! Learning, growing and evolving. 
 
 ![Potential](/assets/20201130_me-donia-sunrise.jpg "Potential")
 
-## Testimonials
+##  Testimonials
 
 ### Lauren from Canada
 
